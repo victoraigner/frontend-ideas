@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../HiddenSearchWidget"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FormInputWave"
+  }
+}

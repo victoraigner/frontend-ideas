@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../ExpandingCards"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ProgressSteps"
+  }
+}
